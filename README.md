@@ -1,5 +1,12 @@
 # ☕ Coffee Sales Analytics & Performance Dashboard
 
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
+[![Power Pivot](https://img.shields.io/badge/Power_Pivot-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+[![Data Model](https://img.shields.io/badge/Data_Model-Relational_Schema-8b5cf6?style=for-the-badge)]()
+[![Domain](https://img.shields.io/badge/Domain-Retail_Sales_Analytics-brown?style=for-the-badge)]()
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-06b6d4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://islamyasser424-design.github.io/portfolio-/)
+
+
 ## 📌 Executive Summary
 This project delivers an interactive, data-driven sales analysis dashboard for a coffee shop operation using **Microsoft Excel** and **Power Pivot**. By analyzing sales records, item pricing, payment preference trends, and order fulfillment locations (In-store vs. Takeaway), the dashboard translates transactional logs into strategic business intelligence.
 
@@ -62,3 +69,19 @@ This project delivers an interactive, data-driven sales analysis dashboard for a
 * **Volume Analysis:** A total of **45,240 items** were sold. **Cake** and **Juice** saw the highest volume with **7,719 units** sold each.
 * **Fulfillment Channels:** Revenue is split almost 50/50 between **In-store** (**$71,479.00**) and **Takeaway** (**$70,234.50**).
 * **Payment Method Preferences:** **Credit Card** represents the primary payment method (**$47,763.00**), followed by **Digital Wallet** (**$47,351.00**) and **Cash** (**$46,599.50**).
+---
+
+## 👤 Author & Connect
+
+**Islam Yasser**  
+*Data Analyst & Business Intelligence Specialist*
+
+* 🌐 **Portfolio Website:** [islamyasser424-design.github.io/portfolio-](https://islamyasser424-design.github.io/portfolio-/)
+* 💼 **LinkedIn Profile:** [linkedin.com/in/islam-yasser-55048b378](https://www.linkedin.com/in/islam-yasser-55048b378/)
+* 🐙 **GitHub Profile:** [@islamyasser424-design](https://github.com/islamyasser424-design)
+* ✉️ **Email:** [islamyasser424@gmail.com](mailto:islamyasser424@gmail.com)
+
+---
+<p align="center">
+  <sub>Part of the Business Intelligence & Enterprise Analytics Portfolio. Engineered with precision and industry-standard data modeling.</sub>
+</p>
